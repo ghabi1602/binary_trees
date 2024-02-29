@@ -1,5 +1,6 @@
 #include "binary_trees.h"
 
+int _pow_recursion(int, int);
 /**
  * binary_tree_is_perfect - checks if a binary tree is perfect
  * @tree: a pointer to the root node of the tree to check
